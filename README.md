@@ -16,8 +16,3 @@ To run the code, you need:
   - `numpy`
   - `matplotlib`
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/fm-signal-simulation.git
-   cd fm-signal-simulation
